@@ -1,6 +1,7 @@
 package com.osgomez.SemilleroPruebaTecnica.controller;
 
 import com.osgomez.SemilleroPruebaTecnica.model.MoviesEntity;
+import com.osgomez.SemilleroPruebaTecnica.repository.MoviesRepository;
 import com.osgomez.SemilleroPruebaTecnica.service.MoviesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
